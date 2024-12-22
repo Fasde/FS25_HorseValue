@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+    <Author>Fase</Author>
+    <version>1.0.0.0</version>
+    <multiplayer supported="true" />
+    <title>
+        <en>Better Horse Values</en>
+    </title>
+    <description>
+         <en><![CDATA[
+It's time to make raising horses worth more! This script mod increases the sell price of horses to be more accurate with the work you put into them, to make horse farming a more rewarding and worthwile experience!
+
+Sell Price at 36 months: $15,000 (peak price)
+Sell Price at 60 months: $10,000
+
+Big thanks to GMNGjoy, as this is a rebrand of his FS22 mod.
+]]>
+        </en>
+        <de><![CDATA[
+Es ist an der Zeit, dass sich die Pferdezucht mehr lohnt! Diese Skript-Mod passt den Verkaufspreis von Pferden so an, dass dieser in einem guten Verhältnis zu der investierten Arbeit steht, und reduziert den Einkaufspreis sogar etwas!
+
+Verkaufspreis im Alter von 36 Monaten: 15,000 (Maximaler Verkaufspreis)
+Verkaufspreis im Alter von 60 Monaten: 10,000
+
+Vielen Dank an GMNGjoy für diese Idee, da dieser Mod auf seinem Mod für LS22 basiert.
+]]>
+        </de>
+    </description>
+    <iconFilename>icon_horseValue.dds</iconFilename>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/horseValue.lua"/>
+    </extraSourceFiles>
+</modDesc>
